@@ -1,0 +1,2 @@
+rootProject.name='TLU APP'
+include ':app'
